@@ -11,7 +11,7 @@ labels:
   - Programming
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/typescript-meme.jpg">
 
 Learning a new programming language often feels less like starting from zero and more like learning a new accent. The ideas are familiar, but the rules, syntax, and expectations shift just enough to slow you down. My experience with TypeScript has been exactly that: familiar, occasionally frustrating, but also informative in ways I did not fully expect.
 
