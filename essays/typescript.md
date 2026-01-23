@@ -4,7 +4,7 @@ type: essay
 title: "TypeScript Between Safety and Speed"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-23
-published: false
+published: true
 labels:
   - Computer Science
   - TypeScript
