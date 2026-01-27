@@ -28,23 +28,23 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub", "intelliJ", "Jgrasp" ]
     }
   ],
 "education": [
   {
-    "institution": "Kapiolani Community College, Honolulu, HI",
-    "area": "Computer Science (expected Spring, 2027)",
-    "studyType": "B.S.",
+    "institution": "Kapi'olani Community College, Honolulu, HI",
+    "area": "Computer Science BS",
+    "studyType": "A.S.",
     "startDate": "2023",
-    "endDate": "Present",
+    "endDate": "Spring, 2025",
     "courses": []
   },
   {
-    "institution": "University of Hawaii, Honolulu, HI",
-    "area": "Computer Science (expected Spring, 2027)",
+    "institution": "University of Hawaii at Manoa, Honolulu, HI",
+    "area": "Computer Science BS (expected Spring, 2027)",
     "studyType": "B.S.",
-    "startDate": "2023",
+    "startDate": "2025",
     "endDate": "Present",
     "courses": []
   }
@@ -52,27 +52,27 @@
 
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Kapi'olani CC",
+      "position": "ICS Peer Mentor",
+      "website": "https://kccstem.com/peer-mentoring/",
+      "startDate": "2024-01",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Tutored student in beginner-level computer science concepts, including: programming, algorithms, and data structures.",
+        "Assisted students with debugging, homework, projects, and exam preparation"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "YMCA",
+      "position": "Youth Administrative Assistant",
+      "website": "",
+      "startDate": "2023-06",
+      "endDate": "2024-08",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Managed phone, email, and mail correspondence; to ensure timely responses",
+        "Completed forms, reports, logs, and registration records accurately."
       ]
     }
   ],
