@@ -7,25 +7,24 @@
     "phone": "808",
     "website": "https://AnnieP211.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "AnnieP211", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "Annie Pham", "url": "www.linkedin.com/in/annie-pham-32728036b" },
+      { "network": "instagram", "username": "buniniis", "url": "https://www.instagram.com/buniniis/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Economics" },
+    { "name": "Data Analytics" },
+    { "name": "Game Development" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript", "MetaHorizon" ]
     },
     {
       "name": "Toolsets/OS",
