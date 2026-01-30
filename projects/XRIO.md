@@ -2,13 +2,12 @@
 layout: project
 type: project
 image: img/XRIOLogo.jpg
-title: "XRIO"
+title: "XRIO Summer Research Internship"
 date: 2025
 published: true
 labels:
   - TypeScript
   - MetaHorizon
-  - Summer Internship
   - Blender
 summary: "Immersive Game-Based Learning with Meta Horizon Worlds."
 ---
