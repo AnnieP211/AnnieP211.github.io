@@ -14,7 +14,7 @@ summary: "A responsive web application for travel planning that my team develope
 ---
 <div class="text-center p-4">
   <img width="200px" height="200px" src="../img/XRIOBefore.jpg" class="img-thumbnail">
-  <img width="200px" height="400px" src="../img/XRIOAfter.jpg" class="img-thumbnail">
+  <img width="200px" height="600px" src="../img/XRIOAfter.jpg" class="img-thumbnail">
 </div>
 
 This project explored how immersive virtual reality (VR) environments can be used as effective educational tools by 
