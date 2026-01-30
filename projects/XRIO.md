@@ -17,6 +17,24 @@ summary: "A responsive web application for travel planning that my team develope
   <img width="550px" height="900px" src="../img/XRIOAfter.jpg" class="img-thumbnail">
 </div>
 
+The above illustrates Before: Initial Game Implementation
+The initial version of the game consisted of a basic obstacle course world with limited interactivity. Core mechanics included simple 
+collision detection between the player and objects, a basic scoring system for collecting gems, and a game manager that controlled 
+the 
+main game states such as start, play, end, and reset. The game supported multiplayer interaction, where all players contributed 
+toward 
+a shared goal, and used dynamic text to display scores and basic updates. While functional, the game environment was minimal and 
+focused primarily on mechanical correctness rather than atmosphere or immersion.
+After: Expanded and Immersive Game Experience
+In the updated version, the game evolved into a fully themed haunted obstacle course designed to create a cohesive and immersive 
+player experience. I implemented Gizmos to animate and control game objects, added sound effects to enhance the atmosphere and 
+provide 
+feedback when gems were collected, and used skybox Gizmos to establish a nighttime setting. I imported custom asset libraries—
+including flooring, walls, and decorative props—to enrich the environment and support the spooky theme. Interactive objects were 
+added 
+throughout the world to encourage exploration and engagement, reinforcing the idea that small design details significantly impact 
+immersion and player experience.
+
 This project explored how immersive virtual reality (VR) environments can be used as effective educational tools by 
 transforming traditional learning experiences into interactive, game-based systems. Working with XRIO and Kapiʻolani 
 Community College, I designed and built a series of VR worlds using Meta Horizon Worlds that incorporated puzzles, 
