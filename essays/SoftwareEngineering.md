@@ -11,7 +11,7 @@ labels:
   - Programming
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/typescript-meme.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/BSP.jpg">
 
 My interest in software engineering is still developing, but it has been 
 shaped by hands-on projects that have shown me how complex and thoughtful 
