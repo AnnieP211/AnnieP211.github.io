@@ -12,7 +12,7 @@ labels:
   - Waste Reduction
 summary: "Alum-inating Path From Wasteless to Waste-less."
 ---
-<img width="828px" height="552px" src="../img/Synthesis.png">
+<img width="828px" height="552px" src="../img/ALM.png">
 
 This project investigated the conversion of aluminum waste into potassium aluminum sulfate (alum) through a series of controlled 
 chemical reactions, emphasizing sustainability, waste reduction, and applied chemistry. Using common aluminum sources such as foil, 
