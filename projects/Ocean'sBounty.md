@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/gify.gif
 title: "Ocean's Bounty"
 date: 2024
 published: true
