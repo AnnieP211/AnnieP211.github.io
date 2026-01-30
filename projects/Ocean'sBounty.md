@@ -13,7 +13,7 @@ labels:
 summary: "A turn-based fishing game simulation."
 ---
 
-<img class="img-fluid" src="../img/BountyDiagram.png">
+<img class="img-fluid" src="../img/Bounty.jpg">
 
 Ocean’s Bounty is a two-player, turn-based fishing game simulation designed to model strategy, probability, and resource management 
 over a fixed game cycle. The game represents a year-long fishing tournament in which players take turns selecting tools, catching 
