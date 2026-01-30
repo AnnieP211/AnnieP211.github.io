@@ -9,6 +9,7 @@ labels:
   - TypeScript
   - MetaHorizon
   - Blender
+  - XR Development
 summary: "Immersive Game-Based Learning with Meta Horizon Worlds."
 ---
 <div class="text-center p-4">
