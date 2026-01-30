@@ -40,3 +40,42 @@ skills, the project strengthened my ability to think critically about user exper
 educational technology. It also reinforced the importance of iterative design, experimentation, and reflection when building 
 interactive systems. Overall, this project helped me connect computer science concepts with real-world applications in 
 education, and it shaped my interest in using immersive technology to create meaningful, learner-centered digital experiences.
+
+```cpp
+import { Entity, AudioGizmo } from 'horizon/core';
+import * as hz from 'horizon/core';
+
+// This component changes the color of a model when a player enters a trigger
+// and plays a corresponding sound for each color change
+class ColorChanger extends hz.Component<typeof ColorChanger> {
+  static propsDefinition = {
+    model: { type: hz.PropTypes.Entity },   // The model entity to change color
+    trigger: { type: hz.PropTypes.Entity }, // The trigger entity to detect player entry
+    sound_1: { type: hz.PropTypes.Entity },
+    sound_2: { type: hz.PropTypes.Entity },
+    sound_3: { type: hz.PropTypes.Entity },
+    sound_4: { type: hz.PropTypes.Entity },
+    sound_5: { type: hz.PropTypes.Entity },
+    sound_6: { type: hz.PropTypes.Entity },
+    sound_7: { type: hz.PropTypes.Entity }, // Array of sound entities
+  };
+
+  // Index to keep track of the current color
+  private currentColorIndex = 0;
+  private soundArray!: Entity[];
+
+  // Array of natural-looking colors (pastel/soft tones)
+  private colors = [
+    new hz.Color(0.9, 0.6, 0.6),  // Soft Pink
+    new hz.Color(0.6, 0.8, 0.6),  // Soft Green
+    new hz.Color(0.6, 0.6, 0.9),  // Soft Blue
+    new hz.Color(0.9, 0.9, 0.6),  // Soft Yellow
+    new hz.Color(0.8, 0.6, 0.9),  // Lavender
+    new hz.Color(0.6, 0.9, 0.9),  // Aqua
+    new hz.Color(0.9, 0.75, 0.6), // Peach
+  ];
+
+  // Array to store the sound gizmos
+  private soundGizmos: hz.AudioGizmo[] = [];
+}
+```
