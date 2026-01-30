@@ -3,14 +3,14 @@ layout: project
 type: project
 image: img/vacay/vacay-square.png
 title: "Sustainable Alum Synthesis"
-date: 2015
+date: 2024
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "Alum-inating Path From Wasteless to Waste-less — Sustainable Alum Synthesis."
+  - Inorganic Chemistry
+  - Stoichiometry
+  - Sustainability
+  - Waste Reduction
+summary: "Alum-inating Path From Wasteless to Waste-less."
 ---
 
 <img class="img-fluid" src="../img/Synthesis.png">
