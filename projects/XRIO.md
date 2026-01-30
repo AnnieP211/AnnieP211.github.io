@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/xrioP.gif
+image: img/XRIOPIC.jpg
 title: "XRIO Summer Research Internship"
 date: 2025
 published: true
