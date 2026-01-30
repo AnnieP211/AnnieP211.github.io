@@ -76,50 +76,41 @@
       ]
     }
   ],
-  "volunteer": [
+  "Activities": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "SURF: Science Undergraduate Research Fair",
+      "position": "Researcher & STEM staff/helper",
+      "startDate": "2023",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "1 hour research presentations & playing audience",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Research poster, note-taking, customer service",
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "XRIO",
+      "website": "https://www.xrio.io/about",
+      "position": "Intern",
+      "startDate": "06-02-2025",
+      "endDate": "08-2025",
+      "summary": "Developing VR Video Games for Education & its practicality.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "ExLENT Research Presentation, NSF",
+        "MetaHorizon, typescript, game developing, game-testing",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Academic Merit Scholarship",
+      "date": "2023-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "summary": "Scholarships awarded to incoming freshmen who are Hawai'i residents and had a high-school cumulative GPA of 3.6 or higher."
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Available upon request."
     }
   ]
 }
