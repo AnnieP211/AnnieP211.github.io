@@ -76,7 +76,7 @@
       ]
     }
   ],
-  "Activities": [
+  "activities": [
     {
       "organization": "SURF: Science Undergraduate Research Fair",
       "position": "Researcher & STEM staff/helper",
@@ -84,7 +84,7 @@
       "endDate": "Present",
       "summary": "1 hour research presentations & playing audience",
       "highlights": [
-        "Research poster, note-taking, customer service",
+        "Research poster, note-taking, customer service"
       ]
     },
     {
@@ -96,7 +96,7 @@
       "summary": "Developing VR Video Games for Education & its practicality.",
       "highlights": [
         "ExLENT Research Presentation, NSF",
-        "MetaHorizon, typescript, game developing, game-testing",
+        "MetaHorizon, typescript, game developing, game-testing"
       ]
     }
   ],
