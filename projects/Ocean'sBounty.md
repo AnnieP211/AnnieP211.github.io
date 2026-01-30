@@ -8,8 +8,8 @@ published: true
 labels:
   - Java
   - Team-work/Collaboration
-  - GitHub
-  - J-Grasp
+  - Game Development
+  - Native Hawaiian Species
 summary: "A turn-based fishing game simulation."
 ---
 
