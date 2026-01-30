@@ -3,14 +3,14 @@ layout: project
 type: project
 image: img/XRIOLogo.jpg
 title: "XRIO"
-date: 2015
+date: 2025
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - TypeScript
+  - MetaHorizon
+  - Summer Internship
+  - Blender
+summary: "Immersive Game-Based Learning with Meta Horizon Worlds."
 ---
 <div class="text-center p-4">
   <img width="470px" height="400px" src="../img/XRIOBefore.jpg" class="img-thumbnail">
