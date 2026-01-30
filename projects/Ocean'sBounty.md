@@ -9,6 +9,7 @@ labels:
   - Java
   - Team-work/Collaboration
   - GitHub
+  - J-Grasp
 summary: "A turn-based fishing game simulation."
 ---
 
