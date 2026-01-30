@@ -39,8 +39,8 @@ This project explored how immersive virtual reality (VR) environments can be use
 transforming traditional learning experiences into interactive, game-based systems. Working with XRIO and Kapiʻolani 
 Community College, I designed and built a series of VR worlds using Meta Horizon Worlds that incorporated puzzles, 
 challenges, reward systems, and progression mechanics to support learning objectives. The project drew on research in game-
-based learning and gamification, focusing on how elements such as feedback loops, scoring systems, collaboration, and 
-adaptive challenges can increase student engagement and retention. The end result was a set of playable VR environments that 
+based on learning and gamification, focusing on how elements such as feedback loops, scoring systems, collaboration, and 
+adaptive challenges can increase student engagement and retention. The result was a set of playable VR environments that 
 demonstrated how educational content can be embedded into interactive gameplay rather than delivered through static textbooks 
 or lectures.
 
@@ -63,7 +63,19 @@ education, and it shaped my interest in using immersive technology to create mea
 
 <img class="img-fluid" src="../img/XRIO3D.png">
 
+Additional Note: I got the privilege of being involved in reviewing 3D Skills Start Here, an educational XRIO game designed to teach foundational Blender skills through interactive, quest-
+based gameplay. I evaluated how effectively the game communicated learning objectives, guided player progression, and supported hands-on skill development.
+I provided structured game review and design feedback to improve the game’s effectiveness as a learning tool. I created a clear pros-and-cons analysis that identified issues such as 
+unclear progression, exploitable mechanics, bugs, and inconsistent guidance, and paired each issue with concrete suggestions like clearer objectives, stronger feedback cues, and 
+accessibility improvements. I also evaluated mechanics, environment design, and reward systems, highlighting strengths such as visual storytelling and intuitive interactions while helping 
+developers see where targeted changes could improve player understanding, engagement, and skill development.
+
+
 Here is some code....
+This project was my first time coding in TypeScript, and it served as an introduction to building interactive components in Horizon Worlds. I created a simple custom component called 
+ColorChanger that responds when a player enters a trigger by changing a model’s color and playing a sound. The goal was to experiment with how visual and audio feedback could make 
+interactions feel more engaging. Through this process, I learned the basics of working with entities, triggers, and audio Gizmos, as well as how TypeScript helps organize code and make 
+interactions easier to understand, even at a beginner level.
 
 ```cpp
 import { Entity, AudioGizmo } from 'horizon/core';
