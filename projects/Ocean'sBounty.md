@@ -3,12 +3,11 @@ layout: project
 type: project
 image: img/vacay/vacay-square.png
 title: "Ocean's Bounty"
-date: 2015
+date: 2024
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - Java
+  - Team-work/Collaboration
   - GitHub
 summary: "A turn-based fishing game simulation."
 ---
