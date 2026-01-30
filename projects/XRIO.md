@@ -62,6 +62,7 @@ interactive systems. Overall, this project helped me connect computer science co
 education, and it shaped my interest in using immersive technology to create meaningful, learner-centered digital experiences.
 
 <img class="img-fluid" src="../img/XRIO3D.png">
+
 Here is some code....
 
 ```cpp
