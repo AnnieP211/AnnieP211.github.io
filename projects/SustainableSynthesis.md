@@ -13,7 +13,7 @@ labels:
 summary: "Alum-inating Path From Wasteless to Waste-less — Sustainable Alum Synthesis."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/Synthesis.png">
 
 This project investigated the conversion of aluminum waste into potassium aluminum sulfate (alum) through a series of controlled 
 chemical reactions, emphasizing sustainability, waste reduction, and applied chemistry. Using common aluminum sources such as foil, 
