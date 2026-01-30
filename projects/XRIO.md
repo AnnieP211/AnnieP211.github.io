@@ -13,7 +13,7 @@ labels:
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
 ---
 <div class="text-center p-4">
-  <img width="300px" height="200px" src="../img/XRIOBefore.jpg" class="img-thumbnail">
+  <img width="270px" height="200px" src="../img/XRIOBefore.jpg" class="img-thumbnail">
   <img width="350px" height="700px" src="../img/XRIOAfter.jpg" class="img-thumbnail">
 </div>
 
