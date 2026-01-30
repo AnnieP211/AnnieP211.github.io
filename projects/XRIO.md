@@ -62,6 +62,7 @@ educational technology. It also reinforced the importance of iterative design, e
 interactive systems. Overall, this project helped me connect computer science concepts with real-world applications in 
 education, and it shaped my interest in using immersive technology to create meaningful, learner-centered digital experiences.
 
+
 <img class="img-fluid" src="../img/XRIO3D.png">
 
 Additional Note: I got the privilege of being involved in reviewing "3D Skills Start Here", an educational XRIO game designed to teach foundational Blender skills through interactive, 
