@@ -138,6 +138,6 @@ approach technical questions with the mindset encouraged by Raymond: show
 what I have tried, be precise about what I am asking, and frame questions 
 as opportunities for collaborative problem-solving rather than requests for 
 shortcuts.
-Additional Note: Use of Grammarly
+Additional Note: Use of Grammarly & ChatGPT to make my essay sound more "cohesive"/ "properly structured".
 
 
