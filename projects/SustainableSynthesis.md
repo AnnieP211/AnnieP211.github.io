@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/recycle (1).jpg
+image: img/recycle-yay.gif
 title: "Sustainable Alum Synthesis"
 date: 2024
 published: true
