@@ -13,7 +13,7 @@ labels:
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/XRIOBefore.jpg">
 
 This project explored how immersive virtual reality (VR) environments can be used as effective educational tools by 
 transforming traditional learning experiences into interactive, game-based systems. Working with XRIO and Kapiʻolani 
@@ -40,6 +40,8 @@ skills, the project strengthened my ability to think critically about user exper
 educational technology. It also reinforced the importance of iterative design, experimentation, and reflection when building 
 interactive systems. Overall, this project helped me connect computer science concepts with real-world applications in 
 education, and it shaped my interest in using immersive technology to create meaningful, learner-centered digital experiences.
+
+Here is some code....
 
 ```cpp
 import { Entity, AudioGizmo } from 'horizon/core';
@@ -79,3 +81,4 @@ class ColorChanger extends hz.Component<typeof ColorChanger> {
   private soundGizmos: hz.AudioGizmo[] = [];
 }
 ```
+<img class="img-fluid" src="../img/XRIOAfter.jpg">
