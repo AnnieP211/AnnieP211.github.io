@@ -64,12 +64,13 @@ education, and it shaped my interest in using immersive technology to create mea
 
 <img class="img-fluid" src="../img/XRIO3D.png">
 
-Additional Note: I got the privilege of being involved in reviewing 3D Skills Start Here, an educational XRIO game designed to teach foundational Blender skills through interactive, quest-
+Additional Note: I got the privilege of being involved in reviewing "3D Skills Start Here", an educational XRIO game designed to teach foundational Blender skills through interactive, 
+quest-
 based gameplay. I evaluated how effectively the game communicated learning objectives, guided player progression, and supported hands-on skill development.
 I provided structured game review and design feedback to improve the game’s effectiveness as a learning tool. I created a clear pros-and-cons analysis that identified issues such as 
 unclear progression, exploitable mechanics, bugs, and inconsistent guidance, and paired each issue with concrete suggestions like clearer objectives, stronger feedback cues, and 
 accessibility improvements. I also evaluated mechanics, environment design, and reward systems, highlighting strengths such as visual storytelling and intuitive interactions while helping 
-developers see where targeted changes could improve player understanding, engagement, and skill development. Their Game released that summer!: https://store.steampowered.com/app/2836300/3D_Skills_Start_Here/
+developers see where targeted changes could improve player understanding, engagement, and skill development. Their Game released that summer on Steam! 
 
 
 
