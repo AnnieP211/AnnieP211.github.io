@@ -11,7 +11,7 @@ labels:
   - Programming
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/typescript-meme.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/question.jpg">
 
 Effective communication is one of the most important skills for a software engineer to develop, and Eric Raymond’s essay How to Ask 
 Questions the Smart Way makes it clear that the quality of technical help a developer receives depends heavily on how a question is 
