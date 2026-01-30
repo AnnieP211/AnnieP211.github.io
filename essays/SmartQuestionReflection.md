@@ -23,9 +23,9 @@ violates them and results in less effective help.
 
 ## Example of a “Smart” Stack Overflow Question 
 
-#### Question title [Understanding list-like functions in transform and apply command in pandas](https://stackoverflow.com/questions/79879092/understanding-list-like-functions-in-transform-and-apply-command-in-pandas)
+Question title: [Understanding list-like functions in transform and apply command in pandas](https://stackoverflow.com/questions/79879092/understanding-list-like-functions-in-transform-and-apply-command-in-pandas)
 
-#### Summary of the Question
+## Summary of the Question
 
 In this question, the developer explores the behavior of pandas’ apply and 
 transform methods when list-like functions are provided, specifically 
@@ -44,7 +44,7 @@ is implemented. Importantly, the question does not ask for a workaround or a
 fix, but instead asks why pandas was designed this way, framing the problem 
 as an architectural and design question rather than a debugging issue.
 
-#### Why This Question Is “Smart.”
+## Why This Question Is “Smart.”
 
 This question strongly aligns with Eric Raymond’s principles. First, it 
 clearly demonstrates prior effort and research. The asker experimented with 
@@ -64,7 +64,7 @@ incorrect or buggy. Instead, they invite explanation and insight from more
 experienced contributors, which Raymond identifies as a hallmark of smart 
 questioning.
 
-#### Community Response and Outcome
+## Community Response and Outcome
 
 Because the question is clear and well-prepared, the responses are efficient 
 and high-quality. Responders are able to focus immediately on pandas’ 
@@ -76,9 +76,9 @@ questions lead to effective and efficient help.
 
 ## Example of a “Not-So-Smart” Stack Overflow Question
 
-#### Question title: [In python how to add or delete certain rows from 1 column in a large CSV file?](https://stackoverflow.com/questions/79879090/in-python-how-to-add-or-delete-certain-rows-from-1-column-in-a-large-csv-file)
+Question title: [In python how to add or delete certain rows from 1 column in a large CSV file?](https://stackoverflow.com/questions/79879090/in-python-how-to-add-or-delete-certain-rows-from-1-column-in-a-large-csv-file)
 
-#### Summary of the Question
+## Summary of the Question
 
 In this question, the developer asks how to add or remove values from a 
 single column in a large CSV file. They provide an example dataset and 
@@ -92,7 +92,7 @@ indication of which Python tools or libraries are being used.
 The post ends with an open-ended request asking for “any ideas” on how to 
 perform these operations.
 
-#### Why This Question Is “Not Smart”
+## Why This Question Is “Not Smart”
 
 Although the question includes sample data, it violates several of 
 Raymond’s key guidelines. Most notably, it does not show any prior effort 
@@ -111,7 +111,7 @@ the question implicitly asks responders to design a solution from scratch,
 rather than helping resolve a specific technical obstacle. This shifts the 
 burden of problem formulation onto the community.
 
-#### Community Response and Outcome
+## Community Response and Outcome
 
 Because the question lacks precision and context, responses tend to be 
 generic, request clarification, or redirect the asker to documentation. 
