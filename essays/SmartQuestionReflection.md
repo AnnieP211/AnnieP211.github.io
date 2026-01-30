@@ -41,9 +41,7 @@ To support this observation, the developer includes multiple minimal,
 reproducible code examples that print the type of the object being passed 
 into the function at each stage. They also cite and analyze relevant 
 portions of the pandas source code, clearly identifying where the behavior 
-is implemented. Importantly, the question does not ask for a workaround or a 
-fix, but instead asks why pandas was designed this way, framing the problem 
-as an architectural and design question rather than a debugging issue.
+is implemented. Importantly, the question focuses on why pandas behaves this way, framing the issue as a design decision rather than a request for a fix.
 
 ## Why This Question Is “Smart.”
 
