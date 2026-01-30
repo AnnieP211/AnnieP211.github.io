@@ -10,6 +10,7 @@ labels:
   - MetaHorizon
   - Blender
   - XR Development
+  - Human–Computer Interaction (HCI)
 summary: "Immersive Game-Based Learning with Meta Horizon Worlds."
 ---
 <div class="text-center p-4">
