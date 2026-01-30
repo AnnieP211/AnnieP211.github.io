@@ -13,7 +13,7 @@ labels:
 summary: "A turn-based fishing game simulation."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/BountyDiagram.png">
 
 Ocean’s Bounty is a two-player, turn-based fishing game simulation designed to model strategy, probability, and resource management 
 over a fixed game cycle. The game represents a year-long fishing tournament in which players take turns selecting tools, catching 
@@ -41,3 +41,22 @@ presentation. Through this project, I strengthened my understanding of object-or
 abstraction, and modularity), extensible system design, and collaborative development. Ocean’s Bounty helped solidify my ability to 
 balance technical correctness with usability and communication, and reinforced how thoughtful architecture and iteration can make 
 complex systems easier to understand, extend, and maintain.
+
+<img class="img-fluid" src="../img/BountyDiagram.png">
+
+This diagram visualizes the object-oriented architecture of Ocean’s Bounty and illustrates how individual fish species are 
+modeled through inheritance, interfaces, and shared behaviors. At the top level, abstract classes and interfaces define 
+common properties and actions—such as whether a fish can be caught, how its size is validated, how it reacts to player tools, 
+or whether it can change attributes like color or sex. These abstractions enforce consistent behavior across the system while 
+allowing individual fish species to retain unique characteristics.
+
+Each green box at the lower levels represents a specific fish species native to Hawaiʻi, such as Moi, ʻUhu, ʻAmaʻama, Weke, 
+Puaʻama, and ʻOama. These species inherit shared functionality from abstract parent classes (such as Fishable_a) while also 
+implementing interfaces that define specialized behavior. This design allowed each fish to behave differently in response to 
+player choices, such as which fishing tool was used, without duplicating code. By structuring the system this way, new native 
+species could be added easily by extending existing abstractions rather than rewriting core logic.
+The diagram also highlights how exception handling and validation (such as food and size constraints) are integrated into the 
+system, ensuring realistic and rule-based interactions. Overall, this structure reflects a deliberate attempt to combine 
+culturally relevant content with sound software engineering practices. By modeling real native Hawaiian fish species within a 
+modular, extensible architecture, the project connects gameplay mechanics with local ecological knowledge while demonstrating 
+effective use of inheritance, interfaces, and abstraction in object-oriented programming.
