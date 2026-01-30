@@ -7,8 +7,9 @@ date: 2026-01-29
 published: true
 labels:
   - Computer Science
-  - TypeScript
-  - Programming
+  - Stackoverflow
+  - Q & A
+
 ---
 
 <img width="500px" class="rounded float-start pe-4" src="../img/question.jpg">
