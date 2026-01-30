@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/XRIOLogo.jpg
-title: "Vacay"
+title: "XRIO"
 date: 2015
 published: true
 labels:
@@ -12,8 +12,10 @@ labels:
   - GitHub
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
 ---
-
-<img class="img-fluid" src="../img/XRIOBefore.jpg">
+<div class="text-center p-4">
+  <img width="400px" src="../img/XRIOBefore.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/XRIOAfter.jpg" class="img-thumbnail" >
+</div>
 
 This project explored how immersive virtual reality (VR) environments can be used as effective educational tools by 
 transforming traditional learning experiences into interactive, game-based systems. Working with XRIO and Kapiʻolani 
@@ -81,4 +83,3 @@ class ColorChanger extends hz.Component<typeof ColorChanger> {
   private soundGizmos: hz.AudioGizmo[] = [];
 }
 ```
-<img class="img-fluid" src="../img/XRIOAfter.jpg">
