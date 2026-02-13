@@ -39,6 +39,7 @@ That simple rule changed how I think about variables. I began writing code with 
 guarantees about what could and could not change.
 
 Here’s a small example:
+
 Before ESLint
 let total = 10
 var count = 0
