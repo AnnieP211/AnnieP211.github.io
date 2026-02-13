@@ -14,7 +14,6 @@ labels:
 
 <img width="500px" class="rounded float-start pe-4" src="../img/codingStand.jpg">
 
-## Beyond Curly Braces
 Most people think coding standards are about small, almost trivial things: how many spaces to indent, 
 whether to use single or double quotes, or where to place the closing curly brace. I used to think the same 
 thing.
