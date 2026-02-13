@@ -12,7 +12,7 @@ labels:
   - Clean code
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/codingStand.jpg">
 
 ## Beyond Curly Braces
 Most people think coding standards are about small, almost trivial things: how many spaces to indent, 
