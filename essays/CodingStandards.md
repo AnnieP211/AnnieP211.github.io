@@ -52,7 +52,7 @@ At first glance, this seems minor. But using const by default encourages safer p
 easier to reason about.
 Even formatting rules improved readability. Consistent indentation and spacing reduce cognitive load. When 
 structure is predictable, your brain can focus on logic instead of decoding formatting.
-Coding standards don’t just make code look better — they make it easier to understand.
+Coding standards don’t just make code look better; they make it easier to understand.
 
 ## Painful and Useful
 Getting rid of ESLint errors is both painful and useful.
