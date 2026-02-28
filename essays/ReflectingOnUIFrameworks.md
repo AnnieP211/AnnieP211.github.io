@@ -13,13 +13,13 @@ labels:
 - HTML
 ---
 
-<div class="container my-4">
-  <div class="row justify-content-center">
-    <div class="col-md-5">
-      <img class="img-fluid rounded" src="../img/logoEX.jpg">
+<div class="container my-5">
+  <div class="row justify-content-center g-4">
+    <div class="col-md-6 text-center">
+      <img src="../img/logoEX.jpg" class="img-fluid rounded shadow">
     </div>
-    <div class="col-md-5">
-      <img class="img-fluid rounded" src="../img/webEX.png">
+    <div class="col-md-6 text-center">
+      <img src="../img/webEX.png" class="img-fluid rounded shadow">
     </div>
   </div>
 </div>
