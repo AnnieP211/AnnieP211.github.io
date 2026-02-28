@@ -26,7 +26,7 @@ labels:
 
 ## Why UI Frameworks Are Worth the Climb
 UI frameworks are not simple. The first time you open the documentation for Bootstrap, it becomes obvious that this is more than just “some CSS classes.” There are grids, breakpoints, 
-containers, 
+and containers, 
 rows, columns, utility helpers, and naming systems that feel like their own language. Learning Bootstrap can feel suspiciously similar to learning a new programming language. So the 
 question makes 
 sense. Why not just use raw HTML and CSS?
