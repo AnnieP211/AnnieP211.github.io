@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Bootstrap, Blood, Sweat, and <div> Tears"
+title: "Confessions of a Bootstrap Beginner!"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-27
 published: true
