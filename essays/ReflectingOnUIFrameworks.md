@@ -13,7 +13,11 @@ labels:
 - HTML
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/typescript-meme.jpg">
+<div class="text-center p-4">
+<img width="500px" class="rounded float-start pe-4" src="../img/logoEX.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/webEX.png">
+</div>
+
 ## Why UI Frameworks Are Worth the Climb
 UI frameworks are not simple. The first time you open the documentation for Bootstrap, it becomes obvious that this is more than just “some CSS classes.” There are grids, breakpoints, containers, 
 rows, columns, utility helpers, and naming systems that feel like their own language. Learning Bootstrap can feel suspiciously similar to learning a new programming language. So the question makes 
