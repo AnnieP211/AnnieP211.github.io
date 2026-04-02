@@ -3,11 +3,12 @@
 layout: essay
 type: essay
 title: "Final Project Proposal"
-published: true
 date: 2026-11-04
+published: true
 labels:
   - Software Engineering
   - Nextjs
+  - Personal interest
 ---
 
 ## Bow-lletins: A Digital Bulletin Board for UH Mānoa
