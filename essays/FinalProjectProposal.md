@@ -26,7 +26,9 @@ students connect with resources, organizations, events, and each other in a way 
 
 ### The problem
 
-One of the biggest challenges at a university as large as UH Mānoa is visibility. There are many great opportunities available, but they are often hidden in places students do not regularly check. A flyer posted in one building might never be seen by students in another. An internship announcement shared on one club page may only reach students already in that circle. Even campus events with strong turnout potential can go unnoticed if promotion is scattered or inconsistent.
+One of the biggest challenges at a university as large as UH Mānoa is visibility. There are many great opportunities available, but they are often hidden in places students do not 
+regularly check. A flyer posted in one building might never be seen by students in another. An internship announcement shared on one club page may only reach students already in that 
+circle. Even campus events with strong turnout potential can go unnoticed if promotion is scattered or inconsistent.
 
 This creates an access problem. Students who are already well connected tend to hear about more opportunities, while others may miss them entirely. That is especially frustrating for 
 commuter students, transfer students, first-year students, and students trying to get more involved but not knowing where to begin. In a big university, connections do not always happen 
@@ -71,15 +73,19 @@ experience.
 
 ### Flyer Detail Page
 
-When a user clicks on a flyer, they would be taken to a detail page with full information such as title, description, date, location, contact details, and attached image. This page could also include reactions, comments, and an RSVP option for event-based posts. Instead of just reading a static announcement, users would be able to engage with it.
+When a user clicks on a flyer, they would be taken to a detail page with full information such as title, description, date, location, contact details, and attached image. This page could 
+also include reactions, comments, and an RSVP option for event-based posts. Instead of just reading a static announcement, users would be able to engage with it.
 
 ### Create Post Page
 
-This page would allow creators to make a new flyer. They could fill out a form with fields like title, category, description, date, location, and image upload. They could also toggle whether comments or RSVP are enabled. Our current concept also includes an AI-assisted flyer generator, which could help users create more polished visuals even if they have little design experience.
+This page would allow creators to make a new flyer. They could fill out a form with fields like title, category, description, date, location, and image upload. They could also toggle 
+whether comments or RSVP are enabled. Our current concept also includes an AI-assisted flyer generator, which could help users create more polished visuals even if they have little design 
+experience.
 
 ### Profile Page
 
-Each user would have a profile page showing their information, saved posts, and created posts. This gives users a sense of ownership and personalization. It also allows creators to manage their flyers and lets students quickly revisit announcements they were interested in.
+Each user would have a profile page showing their information, saved posts, and created posts. This gives users a sense of ownership and personalization. It also allows creators to manage 
+their flyers and let students quickly revisit announcements they were interested in.
 
 ## Use case ideas
 
@@ -87,43 +93,58 @@ Bow-lletins supports multiple kinds of users, each with a different relationship
 
 ### Student
 
-A student can sign up and log in, browse flyers, search for specific opportunities, and filter posts by category. They can click into a post to view more details, react to it, comment on it, save it for later, or RSVP if it is an event. They can also visit their profile to manage their saved flyers and track what they are interested in.
+A student can sign up and log in, browse flyers, search for specific opportunities, and filter posts by category. They can click into a post to view more details, react to it, comment on 
+it, save it for later, or RSVP if it is an event. They can also visit their profile to manage their saved flyers and track what they are interested in.
 
-A realistic example would be a student looking for an internship. Instead of checking random social media accounts or hoping a professor mentions something, they could open Bow-lletins, filter by Internships, search by major or interest area, and save the ones they want to apply to later.
+A realistic example would be a student looking for an internship. Instead of checking random social media accounts or hoping a professor mentions something, they could open Bow-lletins, 
+filter by Internships, search by major or interest area, and save the ones they want to apply to later.
 
 ### Creator
 
-A creator could be a club officer, campus organization member, student worker, or anyone authorized to post announcements. They can create a flyer, upload an image, optionally use the AI flyer generator, and control whether comments or RSVP are available. They can also edit or delete their posts and view engagement data, such as reactions or responses.
+A creator could be a club officer, campus organization member, student worker, or anyone authorized to post announcements. They can create a flyer, upload an image, optionally use the AI 
+flyer generator, and control whether comments or RSVP are available. They can also edit or delete their posts and view engagement data, such as reactions or responses.
 
 For example, a registered student organization planning a fundraiser could use Bow-lletins to create a post, upload a flyer, enable RSVP, and monitor how many students interact with it.
 
 ### Admin
 
-Admins would help maintain the quality and safety of the platform. They could review reported content, remove inappropriate flyers or comments, and moderate posts to keep the app useful and respectful for the campus community.
+Admins would help maintain the quality and safety of the platform. They could review reported content, remove inappropriate flyers or comments, and moderate posts to keep the app useful 
+and respectful for the campus community.
 
 This is especially important because a public posting platform needs some level of accountability and moderation to remain trustworthy.
 
 ## Beyond the basics
 
-The required technologies alone do not make a project interesting. What makes Bow-lletins stand out is that it combines a practical campus need with a more interactive and personalized user experience.
+The required technologies alone do not make a project interesting. What makes Bow-lletins stand out is that it combines a practical campus need with a more interactive and personalized 
+user experience.
 
-The first major feature beyond the basics is **individual user state**. Once logged in, users can save flyers, manage their own posts, track RSVP activity, and interact with announcements in ways that reflect their own interests. This turns the app into more than a static board. It becomes a personalized campus engagement tool.
+The first major feature beyond the basics is **individual user state**. Once logged in, users can save flyers, manage their own posts, track RSVP activity, and interact with announcements 
+in ways that reflect their own interests. This turns the app into more than a static board. It becomes a personalized campus engagement tool.
 
-The second major feature is **community interaction**. Physical bulletin boards do not let students respond, ask questions, or show interest. Bow-lletins adds comments, reactions, and RSVP options, which makes announcements feel more alive and useful. A flyer is no longer just information taped to a wall. It becomes something students can actively engage with.
+The second major feature is **community interaction**. Physical bulletin boards do not let students respond, ask questions, or show interest. Bow-lletins adds comments, reactions, and 
+RSVP options, which make announcements feel more alive and useful. A flyer is no longer just information taped to a wall. It becomes something students can actively engage with.
 
-The third feature is **AI-assisted flyer generation**. While still conceptual, this would help users who have something important to share but lack design experience. Instead of struggling to make a flyer look presentable, they could use built-in assistance to generate a cleaner visual. That lowers the barrier to posting and makes the platform more inclusive.
+The third feature is **AI-assisted flyer generation**. While still conceptual, this would help users who have something important to share but lack design experience. Instead of 
+struggling to make a flyer look presentable, they could use built-in assistance to generate a cleaner visual. That lowers the barrier to posting and makes the platform more inclusive.
 
-Finally, Bow-lletins is especially worth building because it serves a real local community we understand well. UH Mānoa is large enough that students regularly miss opportunities, but also connected enough that a centralized platform could genuinely improve communication. This app is not solving a made-up problem. It addresses a real gap in how students find ways to get involved, stay informed, and connect with campus life.
+Finally, Bow-lletins is especially worth building because it serves a real local community we understand well. UH Mānoa is large enough that students regularly miss opportunities, but 
+also connected enough that a centralized platform could genuinely improve communication. This app is not solving a made-up problem. It addresses a real gap in how students find ways to 
+get involved, stay informed, and connect with campus life.
 
-In a university environment, access to information can shape who finds internships, who joins organizations, who attends events, and who feels included. Bow-lletins would help make that access more equal, more organized, and more student-friendly.
+In a university environment, access to information can shape who finds internships, who joins organizations, who attends events, and who feels included. Bow-lletins would help make that 
+access more equal, more organized, and more student-friendly.
 
 ## Why this project matters
 
-A strong final project should not only demonstrate technical skills, it should also solve a meaningful problem for a real community. Bow-lletins does both. It uses the required software stack, includes personalized features beyond a simple CRUD application, and is clearly designed around the needs of the UH Mānoa community.
+A strong final project should not only demonstrate technical skills, but it should also solve a meaningful problem for a real community. Bow-lletins does both. It uses the required 
+software 
+stack, includes personalized features beyond a simple CRUD application, and is clearly designed around the needs of the UH Mānoa community.
 
-More importantly, it reflects a real student experience. Many students want to be more involved, but the problem is not always motivation. Sometimes the problem is visibility. If information is difficult to find, students are excluded before they even get a chance to participate. Bow-lletins helps reduce that barrier.
+More importantly, it reflects a real student experience. Many students want to be more involved, but the problem is not always motivation. Sometimes the problem is visibility. If 
+information is difficult to find, students are excluded before they even get a chance to participate. Bow-lletins help reduce that barrier.
 
-This project is worth making because college is about more than classes. It is also about connection, opportunity, and community. A platform that helps students discover those things more easily could have a real impact on campus life.
+This project is worth making because college is about more than classes. It is also about connection, opportunity, and community. A platform that helps students discover those things more 
+easily could have a real impact on campus life.
 
 ## AI Use Disclosure
 
