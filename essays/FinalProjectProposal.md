@@ -9,7 +9,16 @@ labels:
   - UHM
 
 ---
-
+<div class="container my-4">
+  <div class="row justify-content-center">
+    <div class="col-md-5">
+      <img class="img-fluid rounded" src="../img/Bowlletins.png">
+    </div>
+    <div class="col-md-5">
+      <img class="img-fluid rounded" src="../img/bulletin.png">
+    </div>
+  </div>
+</div>
 ## Bow-lletins: A Digital Bulletin Board for UH Mānoa
 
 UH Mānoa is a large campus with a lot happening at any given time. There are club meetings, study groups, internship opportunities, campus jobs, volunteer events, scholarship deadlines, 
