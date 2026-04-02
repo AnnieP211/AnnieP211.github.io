@@ -3,6 +3,7 @@
 layout: essay
 type: essay
 title: "Final Project Proposal"
+published: true
 date: 2026-11-04
 labels:
   - Software Engineering
