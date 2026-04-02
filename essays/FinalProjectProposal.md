@@ -12,10 +12,10 @@ labels:
 <div class="container my-4">
   <div class="row justify-content-center">
     <div class="col-md-5">
-      <img class="img-fluid rounded" src="../img/Bowlletins.png">
+      <img class="img-fluid rounded" src="../img/bulletin.png">
     </div>
     <div class="col-md-5">
-      <img class="img-fluid rounded" src="../img/bulletin.png">
+      <img class="img-fluid rounded" src="../img/Bowlletins.png">
     </div>
   </div>
 </div>
