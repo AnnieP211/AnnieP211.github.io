@@ -13,7 +13,7 @@ labels:
 summary: "Hands-on learning experiences centered around patterns & AI."
 ---
 
-<img class="center-img" width="828px" height="552px" src="../img/funP.gif">
+<img class="center-img" width="628px" height="352px" src="../img/funP.gif">
 ## To Learn by Doing
 The Hawaiian phrase ma ka hana ka ʻike means “to learn by doing,” a proverb that captures the idea that real understanding comes not just from hearing or reading, but from experience 
 itself. That idea shaped my experience in the Ma Ka Hana Ka ʻIke program, where learning was never limited to memorizing technical terms or watching someone else explain code. Instead, 
