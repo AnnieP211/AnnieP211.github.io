@@ -74,6 +74,6 @@ doing.
 
 
 Vibecoding (native plants vs. invasive species game - plants vs. zombies):
-<img width="828px" height="552px" src="../img/nativeP.png">
-<img width="828px" height="552px" src="../img/nativeP2.png">
+<img width="828px" height="452px" src="../img/nativeP.png">
+<img width="828px" height="452px" src="../img/nativeP2.png">
 
