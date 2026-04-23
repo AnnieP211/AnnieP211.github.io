@@ -11,7 +11,7 @@ labels:
   - Creativity in Computing
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/knit-knitting.gif">
+<img width="500px" class="rounded float-start pe-4" src="../img/knit-knitting.gif">
 
 When people first hear the phrase design patterns, it can sound more intimidating than it really is. The word “design” makes it feel formal, and the word “pattern” can make it sound 
 like something rigid or mechanical. But patterns are actually everywhere. They show up in quilting, weaving, architecture, music, and even in the ways people organize their daily routines. 
