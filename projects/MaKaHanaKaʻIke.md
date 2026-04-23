@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/recycle-yay.gif
+image: img/PvZ.png
 title: "ma ka hana ka ʻike program"
 date: 2026
 published: true
