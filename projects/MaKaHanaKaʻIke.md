@@ -70,7 +70,7 @@ but how much it matters who builds it, how it is taught, and what kinds of knowl
 method through which I learned to see technology differently: not as something separate from people, but as something shaped by our choices, our values, and our willingness to learn by 
 doing.
 
-## Here are some things I've produced as a participant in the ma ka hana ka ʻike program!
+## Results from the ma ka hana ka ʻike program!
 
 
 Vibecoding (native plants vs. invasive species game - plants vs. zombies):
