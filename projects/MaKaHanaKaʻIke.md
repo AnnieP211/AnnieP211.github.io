@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/PvZ.png
+image: img/title-screen.png
 title: "ma ka hana ka ʻike program"
 date: 2026
 published: true
