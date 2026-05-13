@@ -62,7 +62,7 @@ For example, I would ask:
 
 AI helped reduce anxiety during practice, but I also realized that relying on reassurance too much could become dangerous because it can prevent independent thinking.
 
-# In Class WODs
+### In Class WODs
 
 During actual WODs, I used AI much more carefully because the time pressure was intense. Sometimes it genuinely felt like AI was the hand rubbing your back while a countdown timer quietly 
 threatened your GPA in the corner of the screen. (or the ESLint errors)
@@ -75,7 +75,7 @@ I mainly used it for syntax reminders, debugging, or clarifying small issues. Fo
 However, I avoided asking AI to generate entire solutions because I knew that debugging broken AI-generated code during a timed WOD would probably waste more time than writing it myself. 
 There is nothing more terrifying than pasting AI code into your project, running it confidently, and watching your terminal explode with twelve errors you have never seen before.
 
-# Essays
+### Essays
 
 For essays, AI helped more with brainstorming and organization than actual writing. I used prompts such as:
 
