@@ -13,7 +13,10 @@ labels:
 summary: "Hands-on learning experiences centered around patterns & AI."
 ---
 
-<img class="center-img" width="628px" height="352px" src="../img/funP.gif">
+<div align="center">
+  <img class="center-img" width="628px" height="352px" src="../img/funP.gif">
+</div>
+
 ## To Learn by Doing
 The Hawaiian phrase ma ka hana ka ʻike means “to learn by doing,” a proverb that captures the idea that real understanding comes not just from hearing or reading, but from experience 
 itself. That idea shaped my experience in the Ma Ka Hana Ka ʻIke program, where learning was never limited to memorizing technical terms or watching someone else explain code. Instead, 
@@ -75,6 +78,36 @@ doing.
 
 
 Vibecoding (native plants vs. invasive species game - plants vs. zombies):
-<img width="828px" height="452px" src="../img/nativeP.png">
-<img width="828px" height="452px" src="../img/nativeP2.png">
+<img width="828px" height="452px" src="../img/MIH_Game.png">
+<img width="828px" height="452px" src="../img/board-bg.png">
+<img width="828px" height="452px" src="../img/Z1.png">
+<img width="828px" height="452px" src="../img/Z2.png">
+<img width="828px" height="452px" src="../img/MIH_RESEARCH.png">
+
+Ka Māla Ola was inspired by lane-defense style games like Plants vs. Zombies, but I wanted to transform the idea into something connected to Hawaiʻi’s environment, culture, and education. 
+Instead of using random fantasy plants, I chose Native Hawaiian plants such as ʻulu, kalo, ʻōhiʻa, ʻilima, and ʻaʻaliʻi because many of them have deep cultural importance as canoe plants, 
+food sources, medicines, or symbols tied to Hawaiian identity. The “zombies” in the game are invasive species like miconia, guinea grass, waiwī, and clidemia because these plants are real 
+ecological threats in Hawaiʻi. I wanted players to understand that invasive species are not just abstract environmental terms, but actual organisms that damage forests, increase wildfire 
+risk, outcompete native species, and affect local ecosystems. By turning them into enemies in the game, the environmental issue becomes easier to visualize and understand.
+
+I also wanted the game to feel more personal and memorable, so I added educational hover panels, a plant guide, and a personality quiz. The personality quiz was designed so 
+players could emotionally connect with the plants instead of seeing them as just “weapons” or game assets. At the end of the quiz, players receive a Native Hawaiian plant or invasive 
+species mascot along with a description of its personality traits and cultural or ecological role. My goal was to make people more likely to recognize or care about these plants in the 
+real world after playing. I wanted the game to balance fun gameplay with cultural respect and environmental awareness instead of being purely entertainment.
+
+The coding process involved a lot of planning, experimentation, and troubleshooting. I built the game in Python/HTML-style web code and tested it locally through Git Bash using a Python 
+server so it could run in a browser as a fully playable game. One of the most difficult parts was designing the board system so plants aligned correctly with the visual grid. Since the 
+background image was custom-made and not perfectly symmetrical, I had to manually adjust coordinates, spacing, hitboxes, and placement logic multiple times until the plants snapped 
+properly into the playable squares. I also had to redesign portions of the interface to make the game feel more like a polished mobile app instead of a rough prototype.
+
+The game includes multiple gameplay systems and features. Players collect wai resources and place Native Hawaiian plants onto the board to defend the garden from incoming invasive 
+species. Different plants serve different roles, including attackers, defenders, and support plants that generate more wai. The zombies visually change as they lose health, using separate 
+damaged and defeated sprites. Once a zombie reaches half health, it swaps to a damaged version, and when its health reaches zero, it collapses, fades away, and disappears. The game also 
+includes hover information panels, filters for plant categories, level-up popups, restart options, animated enemy movement, and a victory screen thanking players for saving the KCC garden.
+
+I also created a progression and level system to make the game more engaging over time. Players begin with a smaller set of unlocked plants, then gain access to more defenders as they 
+progress through Levels 1–3. Each level increases the difficulty by making invasive species move faster, increasing plant costs, and reducing the number of chances players have if enemies 
+break through the defenses. A health-heart system helps visually communicate how many chances remain before game over. At the end of Level 3, the player reaches a final victory screen 
+featuring a KCC-inspired logo and a message thanking them for protecting the garden. Overall, the project became both a playable strategy game and an interactive educational experience 
+focused on Hawaiian ecology and invasive species awareness.
 
