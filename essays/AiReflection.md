@@ -62,7 +62,7 @@ For example, I would ask:
 
 AI helped reduce anxiety during practice, but I also realized that relying on reassurance too much could become dangerous because it can prevent independent thinking.
 
-### In Class WODs
+#### In Class WODs
 
 During actual WODs, I used AI much more carefully because the time pressure was intense. Sometimes it genuinely felt like AI was the hand rubbing your back while a countdown timer quietly 
 threatened your GPA in the corner of the screen. (or the ESLint errors)
@@ -75,7 +75,7 @@ I mainly used it for syntax reminders, debugging, or clarifying small issues. Fo
 However, I avoided asking AI to generate entire solutions because I knew that debugging broken AI-generated code during a timed WOD would probably waste more time than writing it myself. 
 There is nothing more terrifying than pasting AI code into your project, running it confidently, and watching your terminal explode with twelve errors you have never seen before.
 
-### Essays
+#### Essays
 
 For essays, AI helped more with brainstorming and organization than actual writing. I used prompts such as:
 
@@ -85,7 +85,7 @@ For essays, AI helped more with brainstorming and organization than actual writi
 I intentionally avoided having AI fully write essays for me because I wanted the final writing to sound like my own thoughts and experiences. AI-generated essays often sounded overly 
 robotic or strangely formal, like a motivational LinkedIn post written by a machine pretending to be human.
 
-# Final Project
+#### Final Project
 
 AI was probably most useful during the final project because our project involved Next.js, React, Prisma, Vercel deployment, authentication systems, UI design, and debugging multiple 
 technologies interacting together.
@@ -98,7 +98,7 @@ I used prompts such as:
 
 Some nights AI saved me an hour of frustration by immediately spotting something small, like a missing import or a misplaced bracket. Other nights, it sent me into a debugging spiral so bad that I started questioning every single line of code I had written since opening VS Code. Over time, one of the biggest lessons I learned was that AI generated code rarely works perfectly inside an existing project without modification. Sometimes the generated solution looked correct at first glance, but fixing the hidden bugs, adjusting the logic, and making it actually fit the codebase ended up taking longer than writing the feature myself from scratch.
 
-# Learning a Concept or Tutorial
+#### Learning a Concept or Tutorial
 
 AI became extremely useful for learning concepts because it could explain technical topics conversationally. Instead of reading documentation filled with unfamiliar terminology, I could ask:
 
