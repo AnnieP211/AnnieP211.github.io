@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Beyond Curly Braces"
 # All dates must be YYYY-MM-DD format!
-date: 2026-12-02
+date: 2026-02-12
 published: true
 labels:
   - ESLint
