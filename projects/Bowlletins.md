@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bows.png
+image: img/bows2.png
 title: "Bow-lletins"
 date: 2026
 published: true
