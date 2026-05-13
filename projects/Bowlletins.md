@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bows.gif
+image: img/bows.png
 title: "Bow-lletins"
 date: 2026
 published: true
