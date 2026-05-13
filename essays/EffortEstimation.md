@@ -1,90 +1,87 @@
 ---
 layout: essay
 type: essay
-title: "Beyond Curly Braces"
+title: "Effort Estimation and Tracking Reflection"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-12
 published: true
 labels:
-  - ESLint
-  - Coding Standards
+  - estimation
+  - debugging
   - Best Practices
-  - Clean code
+  - idpm
 ---
 
 <img width="500px" class="rounded float-start pe-4" src="../img/codingStand.jpg">
 
-Most people think coding standards are about small, almost trivial things: how many spaces to indent, 
-whether to use single or double quotes, or where to place the closing curly brace. I used to think the same 
-thing.
-After one week of using ESLint with VSCode, I’ve changed my mind.
-Coding standards are not about aesthetics. They are about discipline, clarity, and learning to think more 
-precisely as a developer.
+Throughout this project, effort estimation became one of the most important parts of managing our workflow. At first, I assumed estimating effort would mostly just involve guessing how 
+long coding tasks would take. However, over time, I realized that software development involves much more than simply writing code. Planning, debugging, researching solutions, 
+communicating with teammates, testing features, and even learning unfamiliar technologies all contribute significant amounts of time to a project. The effort estimation process helped me 
+better understand how software projects are actually managed and why accurate tracking matters in both academic and professional environments.
 
-## The First Week with ESLint
-The first time I enabled ESLint in my project, my screen filled with warnings and errors. Red underlines. 
-Yellow highlights. Suggestions everywhere.
-The frustrating part? My code worked.
-But ESLint made it clear that “working” is not the same as “well written.”
-I had unused variables, inconsistent indentation, and several places where I used let when const would have 
-been better. None of these broke my program. But they revealed habits I hadn’t fully examined.
-Fixing the errors felt tedious at first. However, as I worked through them, I began to see a pattern: 
-ESLint wasn’t nitpicking. It was teaching.
+For our GitHub project board, we added custom fields such as Estimated Effort, Coding Effort, Non-Coding Effort, and Estimator. These fields helped organize our work and allowed us to 
+compare our original expectations with the actual time spent completing tasks. When creating estimates, I usually base my numbers on previous assignments, past experience with similar 
+coding tasks, and how complicated I expect the feature to be. For example, if I had previously spent around two hours building a simple UI page, I would use that as a reference point 
+when estimating another interface-related issue. I also considered whether a task required learning something completely new, such as integrating database features, debugging deployment 
+problems, or working with unfamiliar frameworks. In those cases, I intentionally increased my estimates because research and troubleshooting usually took longer than expected.
 
-## How Standards Teach the Language
-One of the biggest surprises was how much coding standards reinforced language fundamentals.
-For example, ESLint consistently pushed me to use const instead of let when reassignment wasn’t necessary. 
-That simple rule changed how I think about variables. I began writing code with clearer intent and stronger 
-guarantees about what could and could not change.
+Even though many of my estimates ended up being inaccurate, estimating in advance still provided important benefits. One major advantage was that it forced me to think about the scope of 
+a task before starting it. Sometimes an issue initially sounded small, but after estimating it, I realized it actually involved multiple steps, such as database changes, frontend updates, 
+testing, and debugging. For example, tasks related to authentication or database integration often took much longer than expected because solving one problem usually revealed three new 
+ones hiding underneath it. There were multiple moments where I confidently thought a task would take “maybe twenty minutes,” only for my facial expression to completely drop after an 
+error message appeared that I had never seen before. Something as small as changing one database field could suddenly turn into hours of debugging, rereading documentation, testing fixes, 
+and double-checking that I would not accidentally break the project before pushing to main. Those experiences made me realize how unpredictable software development can be and why effort 
+estimation is necessary even when the estimates are not perfectly accurate.
 
-Here’s a small example:
+Tracking actual effort was also extremely useful because it revealed patterns in my workflow and highlighted areas where my estimates were consistently inaccurate. In many situations, the 
+actual coding time was not the largest portion of the work. Non-coding efforts such as brainstorming, researching documentation, debugging deployment errors, discussing solutions with 
+teammates, and organizing project tasks often consume just as much time as writing the actual code. This changed how I viewed software development overall. Before this project, I 
+underestimated how much time is spent staring silently at the screen, trying to figure out why code that “should work” absolutely refuses to work. Some of the longest parts of development 
+were not even writing code, but carefully tracing bugs line by line while slowly losing confidence in every decision I made five minutes earlier.
 
-Before ESLint
-let total = 10
-var count = 0
+For tracking my effort, I primarily used GitHub project updates, timestamps from work sessions, and personal observations while working inside VS Code. I separated coding effort from non-
+coding effort whenever possible. Coding effort included time spent actively writing code, debugging implementations, integrating features, and testing outputs. Non-coding effort included 
+brainstorming, researching solutions online, discussing implementation ideas with teammates, planning UI designs, and organizing GitHub issues. I believe my tracking was reasonably 
+accurate overall, although it was probably impossible to capture every minute perfectly. Sometimes, smaller interruptions or quick debugging sessions were difficult to account for exactly. 
+However, I made an effort to record realistic data instead of simply inventing numbers after completing tasks. I think this honesty was important because inaccurate data would reduce the 
+usefulness of the entire estimation process.
 
-After ESLint
-const total = 10;
-let count = 0;
+One of the most significant aspects of this project was the use of AI tools during development. I used ChatGPT by OpenAI, primarily GPT-5-based conversational assistance, to help 
+brainstorm ideas, debug code, explain errors, suggest improvements, and refine implementations. AI became especially useful when encountering unfamiliar technologies or complicated bugs 
+because it could quickly provide explanations and possible solutions. Sometimes AI gave surprisingly useful solutions within seconds, which honestly felt magical during stressful 
+debugging sessions late at night. Other times, it confidently suggested code that either did not work, used outdated syntax, or created entirely new problems. Those moments taught me very 
+quickly that AI responses still need careful verification and cannot replace actually understanding the code yourself.
 
-At first glance, this seems minor. But using const by default encourages safer patterns and makes code 
-easier to reason about.
-Even formatting rules improved readability. Consistent indentation and spacing reduce cognitive load. When 
-structure is predictable, your brain can focus on logic instead of decoding formatting.
-Coding standards don’t just make code look better; they make it easier to understand.
+## Some representative prompts I used included:
 
-## Painful and Useful
-Getting rid of ESLint errors is both painful and useful.
-It slows you down at first. You feel like you're being corrected constantly. Sometimes you have to refactor 
-something that technically “works.”
-But that friction is productive.
-Linting catches small mistakes early. It prevents inconsistent patterns from spreading across a codebase. 
-It encourages habits that scale when projects grow larger or involve more contributors.
-It’s similar to learning proper form in a sport. Early correction prevents long-term problems.
+“Why is my Prisma schema causing a migration error?”
+“Help me debug this Next.js hydration mismatch.”
+“How can I structure this React Bootstrap component more cleanly?”
+“What could cause this Vercel deployment failure?”
+“Can you help me brainstorm ways to improve the user experience of this page?”
 
-## Coding Standards and Teamwork
-Another important realization is that coding standards are not just for the individual developer. They are 
-for teams.
-When everyone follows the same conventions, code becomes predictable. There is less debate about formatting 
-and more focus on solving real problems. Tools like ESLint remove subjective disagreements and replace them 
-with consistent, automated decisions.
-Standards reduce friction.
-They also make onboarding easier. A new contributor can read the code without constantly adjusting to 
-different styles. That consistency improves maintainability and long-term quality.
+In terms of effort breakdown, I spent time in several different categories while using AI:
 
-## Beyond Style
-It’s easy to dismiss coding standards as cosmetic rules. But consistency builds trust in a codebase. Clean 
-structure reflects careful thinking.
-If I could only implement one software engineering practice to improve quality, coding standards would be a 
-strong candidate. They raise the minimum standard of code. They reinforce language fundamentals. They 
-reduce team conflict. They prevent subtle bugs.
-They also build discipline.
-After one week with ESLint, I no longer see coding standards as trivial. They are foundational.
-It’s not about the curly brace.
-It’s about the structure behind it.
+Prompt engineering: approximately 5–15 minutes per issue, refining prompts and explaining project context.
+Generation time: usually under a minute, waiting for outputs.
+Verification and debugging: often 15–40 minutes of testing whether the generated solution actually worked.
+Integration and refactoring: approximately 10–30 minutes modifying AI-generated code to fit the existing codebase and project requirements.
 
-## AI Use Disclosure
-I used ChatGPT to help brainstorm structure and refine clarity in this essay. The ideas and reflections are 
-based on my own experience using ESLint during the first week of development.
+Very little AI-generated content was accepted completely “as-is.” Most responses required manual edits, debugging, renaming variables, restructuring components, or adapting the logic to 
+work properly within our project. In some cases, AI suggestions introduced new bugs or used outdated syntax, which meant I still needed to understand the code myself rather than blindly 
+copying solutions. Because of this, AI functioned more as a collaborative assistant than a replacement for actual programming knowledge.
 
+I believe tracking AI usage is important because AI is becoming increasingly integrated into modern software development. Without separating AI-assisted effort from normal coding effort, 
+it becomes difficult to understand how productivity is changing or how much time is truly spent verifying and adapting generated code. AI can speed up brainstorming and troubleshooting, 
+but it does not eliminate the need for critical thinking, debugging, or software engineering skills. In fact, verifying AI-generated responses often became one of the most time-consuming 
+parts of development.
 
+If I were to improve my estimation and tracking process in the future, I would focus on more detailed tracking throughout the project instead of relying on memory later. I would likely 
+use a dedicated timer or tracking tool more consistently so that smaller tasks and interruptions are recorded more accurately. I would also break larger issues into smaller subtasks 
+before estimating them because broad tasks were much harder to predict accurately. Additionally, I would spend more time reviewing previously completed issues before creating estimates, 
+since historical data has become one of the best indicators of future effort.
+
+Overall, this experience taught me that effort estimation is less about predicting the future perfectly and more about developing awareness of how software development actually works. 
+Behind every “small fix” is usually a chain reaction of testing, debugging, researching, and decision-making that is invisible from the outside. Even though my estimates were frequently 
+wrong, the process helped me become more realistic, more organized, and much more careful about managing both my time and my code. Tracking both coding and non-coding effort gave me a 
+much more realistic understanding of software development, while tracking AI usage demonstrated how modern development workflows are evolving alongside new technologies.
