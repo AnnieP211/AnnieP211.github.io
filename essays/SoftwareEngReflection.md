@@ -11,7 +11,9 @@ labels:
   - software engineering
 ---
 
-<img width="425px" class="rounded float-start pe-4" src="../img/thumbs.gif">
+<div align="center">
+  <img width="425px" class="rounded" src="../img/thumbs.gif">
+</div>
 
 ## More Than Just Building Websites
 When I first entered ICS 314, I honestly thought software engineering was mostly going to be about learning how to build websites. I expected to spend the semester learning frontend 
