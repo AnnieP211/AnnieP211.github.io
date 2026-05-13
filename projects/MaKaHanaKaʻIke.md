@@ -82,7 +82,6 @@ Vibecoding (native plants vs. invasive species game - plants vs. zombies):
 <img width="828px" height="452px" src="../img/board-bg.png">
 <img width="828px" height="452px" src="../img/Z1.png">
 <img width="828px" height="452px" src="../img/Z2.png">
-<img width="828px" height="452px" src="../img/MIH_RESEARCH.png">
 
 Ka Māla Ola was inspired by lane-defense style games like Plants vs. Zombies, but I wanted to transform the idea into something connected to Hawaiʻi’s environment, culture, and education. 
 Instead of using random fantasy plants, I chose Native Hawaiian plants such as ʻulu, kalo, ʻōhiʻa, ʻilima, and ʻaʻaliʻi because many of them have deep cultural importance as canoe plants, 
