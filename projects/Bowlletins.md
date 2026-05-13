@@ -11,7 +11,7 @@ labels:
   - web-development
 summary: "Bow-lletins is a digital bulletin board platform designed for UH Mānoa students that centralizes campus opportunities, events, internships, and announcements into one organized and interactive space."
 ---
-<img width="828px" height="552px" src="../img/Bowlletins.png">
+<img width="828px" height="552px" src="../img/bowlletins.png">
 
 When people imagine software engineering, they often picture someone sitting alone in a dark room typing code for hours while staring at a monitor full of confusing symbols. Before ICS 314, I honestly thought software development worked somewhat like that, too. I assumed the hardest part would simply be learning programming languages or figuring out how to make websites function correctly. However, by the end of the semester, I realized the most meaningful part of software engineering was not actually the code itself. It was the people behind it.
 
