@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Ctrl + S Before It Breaks: My Experience Using AI in ICS 314"
+title: "Ctrl + S Before It Breaks: AI in ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-12
 published: true
