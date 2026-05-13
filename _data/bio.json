@@ -15,12 +15,13 @@
     ]
   },
   "interests": [
-    { "name": "Economics" },
-    { "name": "Data Analytics" },
-    { "name": "Game Development" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
-  ],
+  { "name": "3D Graphics" },
+  { "name": "Data Analytics" },
+  { "name": "Economics" },
+  { "name": "Education" },
+  { "name": "Game Development" },
+  { "name": "Robotics" }
+],
   "skills": [
     {
       "name": "Languages and Frameworks",
