@@ -10,7 +10,9 @@ labels:
   - reflection
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/AI.jpg">
+<div align="center">
+  <img width="500px" class="rounded" src="../img/AI.jpg">
+</div>
 
 
 ## I. Introduction
