@@ -101,13 +101,19 @@
     }
   ],
   "awards": [
-    {
-      "title": "Academic Merit Scholarship",
-      "date": "2023-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen who are Hawai'i residents and had a high-school cumulative GPA of 3.6 or higher."
-    }
-  ],
+  {
+    "title": "Academic Merit Scholarship",
+    "date": "2023-Present",
+    "awarder": "State of Hawaii",
+    "summary": "Scholarships awarded to incoming freshmen who are Hawai'i residents and had a high-school cumulative GPA of 3.6 or higher."
+  },
+  {
+    "title": "Lēʻahi Creative Arts Journal Selection",
+    "date": "2025",
+    "awarder": "Lēʻahi Creative Arts Journal",
+    "summary": "Selected for the 2025 Lēʻahi Creative Arts Journal showcase, an annual publication that highlights outstanding student creative writing and artistic work."
+  }
+]
   "references": [
     {
       "name": "Available upon request."
