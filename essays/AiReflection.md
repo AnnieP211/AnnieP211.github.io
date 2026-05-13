@@ -107,7 +107,7 @@ AI became extremely useful for learning concepts because it could explain techni
 
 This made difficult concepts feel more approachable and less intimidating.
 
-Answering a Question in Class or Discord
+#### Answering a Question in Class or Discord
 
 Sometimes I used AI before asking questions publicly because I wanted to avoid asking something that had an obvious answer. AI helped me clarify my understanding before posting in Discord 
 or speaking in class.
@@ -126,7 +126,7 @@ I learned to ask more specific questions like:
 
 This improved both my communication skills and problem solving process.
 
-Coding Example
+#### Coding Example
 
 For coding examples, AI was extremely helpful. I used prompts such as:
 
@@ -135,7 +135,7 @@ For coding examples, AI was extremely helpful. I used prompts such as:
 
 These examples gave me starting points and helped me recognize coding patterns faster.
 
-Explaining Code
+#### Explaining Code
 
 One of AI’s strongest abilities was explaining code. I often pasted confusing code snippets and asked:
 
@@ -143,20 +143,20 @@ One of AI’s strongest abilities was explaining code. I often pasted confusing 
 
 This was especially helpful when learning unfamiliar JavaScript syntax or React hooks.
 
-Writing Code
+#### Writing Code
 
 AI helped generate starter code and boilerplate structures, especially for React components or database models. However, I learned very quickly that generated code should never be trusted 
 blindly.
 
 AI sometimes wrote code that looked beautifully correct while secretly creating future bugs hiding in dark corners of the project waiting to ruin my evening later.
 
-Documenting Code
+#### Documenting Code
 
 AI was surprisingly useful for writing comments and improving readability. It helped turn messy explanations into clearer documentation.
 
 However, I still needed to review everything because AI occasionally documented code incorrectly or described functionality that the code did not actually perform.
 
-Quality Assurance
+#### Quality Assurance
 
 AI was extremely useful for debugging and quality assurance. I frequently used prompts such as:
 
@@ -166,7 +166,7 @@ AI was extremely useful for debugging and quality assurance. I frequently used p
 Sometimes AI identifies mistakes immediately. Other times, it suggested solutions that introduced even more problems. Those moments usually involved me staring at my monitor in complete 
 silence while wondering how a “simple fix” somehow destroyed five unrelated files.
 
-Other Uses in ICS 314
+#### Other Uses in ICS 314
 
 Outside the categories above, AI also helped me brainstorm project ideas, improve UI wording, revise GitHub README files, organize thoughts for presentations, and simplify technical 
 explanations.
