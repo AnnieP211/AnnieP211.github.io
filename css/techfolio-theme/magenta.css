@@ -1,0 +1,66 @@
+/* Magenta Theme: modifies the default theme to use pink, magenta, and deep rose colors. */
+
+/* Use Open Sans as the default font. */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700");
+
+:root {
+  --tf-magenta1: #a3264f;
+  --tf-magenta2: #cf4d87;
+  --tf-magenta3: #e89abd;
+  --tf-magenta4: #f7d4e3;
+
+  --bs-font-sans-serif: "Open Sans", sans-serif;
+  --bs-link-color: var(--tf-magenta1);
+
+  --tf-pill-bg: var(--tf-magenta2);
+  --tf-icon-fill: var(--tf-magenta1);
+  --tf-icon-hover: var(--tf-magenta2);
+  --tf-page-bg-color: var(--bs-white);
+  --tf-footer-bg-color: var(--tf-magenta4);
+  --tf-projects-bg-color: var(--tf-magenta4);
+}
+
+h1, h2, h3, h4, h5 {
+  color: var(--tf-magenta1);
+  font-family: Rubik, sans-serif;
+}
+
+/* Format social media icons */
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-magenta1);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+  transition: 0.2s;
+}
+
+.tf-social:hover {
+  fill: var(--tf-icon-hover);
+}
+
+a {
+  color: var(--tf-magenta1);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--tf-magenta2);
+}
+
+@media (max-width: 500px) {
+  .navbar-brand {
+    display: none;
+  }
+
+  .navbar-brand-mobile {
+    display: inline;
+  }
+}
+
+.rounded-circle {
+  border-color: var(--tf-magenta1);
+  border-style: solid;
+  border-width: 1px;
+}
