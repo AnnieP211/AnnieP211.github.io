@@ -12,7 +12,7 @@ labels:
   - idpm
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/codingStand.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/track.jpeg">
 
 Throughout this project, effort estimation became one of the most important parts of managing our workflow. At first, I assumed estimating effort would mostly just involve guessing how 
 long coding tasks would take. However, over time, I realized that software development involves much more than simply writing code. Planning, debugging, researching solutions, 
