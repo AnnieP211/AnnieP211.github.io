@@ -1,14 +1,14 @@
-/* Magenta Theme: modified to use a soft lilac aesthetic while keeping variable names. */
+/* Magenta Theme: modified to use Gentian while keeping the magenta variable names. */
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
 @import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700");
 
 :root {
-  --tf-magenta1: #9A84E8; /* Primary lilac */
-  --tf-magenta2: #BFA8F5; /* Lavender */
-  --tf-magenta3: #DDD0FA; /* Light lilac */
-  --tf-magenta4: #F7F3FF; /* Very light lavender */
+  --tf-magenta1: #6572A5; /* Gentian */
+  --tf-magenta2: #8C96C0; /* Soft Gentian */
+  --tf-magenta3: #C3CAE0; /* Light Gentian */
+  --tf-magenta4: #F0F2FA; /* Very pale Gentian */
 
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-magenta1);
