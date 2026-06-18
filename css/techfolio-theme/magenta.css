@@ -1,14 +1,14 @@
-/* Magenta Theme: modifies the default theme to use pink, magenta, and deep rose colors. */
+/* Magenta Theme: modified to use a soft lilac aesthetic while keeping variable names. */
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
 @import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700");
 
 :root {
-  --tf-magenta1: #a3264f;
-  --tf-magenta2: #cf4d87;
-  --tf-magenta3: #e89abd;
-  --tf-magenta4: #f7d4e3;
+  --tf-magenta1: #9A84E8; /* Primary lilac */
+  --tf-magenta2: #BFA8F5; /* Lavender */
+  --tf-magenta3: #DDD0FA; /* Light lilac */
+  --tf-magenta4: #F7F3FF; /* Very light lavender */
 
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-magenta1);
@@ -21,7 +21,11 @@
   --tf-projects-bg-color: var(--tf-magenta4);
 }
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   color: var(--tf-magenta1);
   font-family: Rubik, sans-serif;
 }
